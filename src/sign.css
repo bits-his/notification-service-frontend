@@ -1,0 +1,25 @@
+/* 
+body::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom right,#002f4b,#dc4225);
+    background-color: blueviolet;
+    opacity: .6; 
+}
+
+body {
+	align-items: center;
+	background-color: var(--white);
+	background: url('http://unsplash.it/600x600');
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: grid;
+	height: 100vh;
+	place-items: center;
+} */
